@@ -1,4 +1,4 @@
-//2: �߻�ȭ ĸ��ȭ
+﻿//2: 추상화 캡슐화
 #include <iostream>
 class SetValue
 {
