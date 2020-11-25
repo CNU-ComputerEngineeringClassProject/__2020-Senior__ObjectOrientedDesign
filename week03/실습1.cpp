@@ -1,4 +1,4 @@
-//1: Á¢±Ù ÁöÁ¤ÀÚ
+ï»¿//1: ì ‘ê·¼ ì§€ì •ì
 
 #include <iostream>
 class SetValue
